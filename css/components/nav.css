@@ -1,0 +1,21 @@
+.nav {
+	padding: 10px;
+}
+
+.nav-item {
+	color: #fff9fa;
+	padding: 0 16px;
+	text-decoration: none;
+}
+
+.nav .nav-item:hover {
+	color: #C0C0C0;
+}
+
+.nav .nav-item:active {
+	color: #808080;
+}
+
+.nav-item.is-active {
+	color: #000000;
+}

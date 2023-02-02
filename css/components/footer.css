@@ -1,0 +1,15 @@
+.footer {
+	padding: 40px 0;
+}
+
+.line-decoration {
+	width: 270px;
+	height: 1px;
+	background-color: #191c20;
+	margin-bottom: 5px;
+}
+
+
+.line-decoration:hover {
+	background-color: #262d34;
+}

@@ -1,0 +1,57 @@
+.section {
+	padding: 40px 20px;
+}
+
+.section-title {
+	font-size: 30px;
+	color: #ffffff;
+	margin-bottom: 0;
+}
+
+.section-description {
+	font-size: 14px;
+	color: #c9c7c7;
+	margin-bottom: 0;
+}
+
+.section-subtitle {
+	font-size: 18px;
+	color: #ffffff;
+	margin-bottom: 0;
+}
+
+.section-description.title {
+	font-size: 18px;
+	color: #c9c7c7;
+}
+
+.section-list {
+	padding-top: 20px;
+}
+
+.section-table {
+	padding: 10px 0;
+}
+
+.section .about-title {
+	color: #a5adb8;
+	font-size: 24px;
+}
+
+.section .about-description {
+	font-size: 14px;
+	color: #6e7074;
+	margin-bottom: 32px;
+}
+
+.section-gray {
+	background-color: #282d33; 
+}
+
+.section-primary {
+	background-color: #ff1744;
+}
+
+.section-light {
+	background-color: #ffffff;
+}

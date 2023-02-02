@@ -1,0 +1,65 @@
+.list {
+	list-style: none;
+	color: #5c646e;
+	padding: 0;
+	margin-left: 5px;
+}
+
+.list-primary > li::before {
+	content: "";
+	display: inline-block;
+	width: 5px;
+	height: 5px;
+	margin-right: 10px;
+	background-color: #ff1744;
+	border-radius: 50%;
+	border-right: 10px;
+	vertical-align: middle;
+}
+
+.list-title {
+	color: #a5adb8;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.list-description {
+	color: #5c646e;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 24px;
+	margin-bottom: 0;
+}
+
+.list-subtitle {
+	font-size: 12px;
+	color: #85898f;
+}
+
+.list-subtitle2 {
+	font-size: 14px;
+	color: #a5adb8;
+	font-weight: bold;
+}
+
+.list-disc {
+	color: #5c646e;
+	font-size: 14px;
+	font-weight: 400;
+	list-style-type: disc;
+	padding-left: 25px;
+}
+
+.list-decimal {
+	color: #5c646e;
+	font-size: 14px;
+	font-weight: 400;
+	list-style-type: decimal;
+	padding-left: 20px;
+}
+
+.list-size {
+	color: #85898f;
+	font-size: 12px;
+	font-weight: 400;
+}

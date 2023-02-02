@@ -1,0 +1,26 @@
+.header {
+	color: #ffffff;
+}
+
+.header-top {
+	padding: 20px 0;
+}
+
+.header-bottom {
+	padding-right: 30px;
+}
+
+.logo {
+	display: inline-block;
+	font-size: 30px;
+	color: #ffffff;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+.logo-description {
+	color: #ffffff;
+	font-size: 12px;
+	font-weight: 400;
+	margin-bottom: 0;
+}
